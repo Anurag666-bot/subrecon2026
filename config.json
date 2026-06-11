@@ -1,0 +1,7 @@
+{
+    "securitytrails": "your_key",
+    "virustotal": "f6825655964dac9a464528f22869bfbe38c1376d77653b3501f8ec600e2e5ac0",
+    "shodan": "your_key",
+    "censys": {"id": "xxx", "secret": "yyy"},
+    "bevigil": "your_key"
+}
